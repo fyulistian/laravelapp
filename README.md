@@ -19,8 +19,7 @@ ADD product for mobilkamu
 ### Setup
 
 ```
-$ npm install
-$ php artisan serve --port=3030
+php artisan serve --port=3030
 ```
 Run on http://127.0.0.1:3030<br>
 

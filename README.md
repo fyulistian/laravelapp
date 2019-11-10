@@ -26,8 +26,8 @@ Run on http://127.0.0.1:3030<br>
 ### Environment
 
 ```
-Laravel <br>
-Vue  <br>
+Laravel
+Vue 
 ```
 
 ## Authors

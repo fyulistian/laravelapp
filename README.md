@@ -19,6 +19,10 @@ ADD product for mobilkamu
 ### Setup
 
 ```
+create DB name 'laravelapp'
+
+php artisan migrate
+
 php artisan serve --port=3030
 ```
 Run on http://127.0.0.1:3030<br>
